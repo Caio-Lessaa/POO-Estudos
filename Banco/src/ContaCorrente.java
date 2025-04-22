@@ -21,7 +21,6 @@ public class ContaCorrente extends Conta{
             totalSaques +=valor;
             return true;
         }else{
-            System.out.println("Não é possivel sacar o valor informado");
             return false;
         }
     }

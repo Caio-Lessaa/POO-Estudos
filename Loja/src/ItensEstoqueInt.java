@@ -1,6 +1,6 @@
-public interface ItemEstoqueInt {
+public interface ItensEstoqueInt {
     void incUnits(int qtd);
-    void decUnits(int qtd);
+    boolean decUnits(int qtd);
     int getUnits();
     double getPrice();
     void print();

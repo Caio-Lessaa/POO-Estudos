@@ -1,17 +1,17 @@
 public class Main {
     public static void main(String[] args) {
-        ItensLoja camisa = new ItensLoja("Camisa social branca", 'M', 54.21, 8);
-        ItensLoja calca = new ItensLoja("Calça de sarja", 'M', 80.41, 5);
-        ItensLoja jaqueta = new ItensLoja("Jaqueta de couro", 'G', 164.51, 4);
-        ItensLoja bone = new ItensLoja("Boné GAP", 'U', 69.99, 7);
-        ItensLoja tenis = new ItensLoja("Tênis nike", 'G', 229.99, 12);
-        ListaItens lista = new ListaItens(4);
-        System.out.println(lista.add(camisa));
-        System.out.println(lista.add(calca));
-        System.out.println(lista.add(jaqueta));
-        System.out.println(lista.add(bone));
-        System.out.println(lista.add(tenis));
-        System.out.println(lista.add(tenis));
-        lista.listAll();
+        ItensVendidos camisa = new ItensVendidos("Camisa de botao", 14, 50.25, 10);
+        ItensVendidos calca = new ItensVendidos("Calça jeans", 40, 110.98,5);
+        ItensVendidos tenis = new ItensVendidos("Tenis nike", 41, 249.99, 4);
+        ItensVendidos meia = new ItensVendidos("Meia adidas", 40, 39.99, 6);
+
+        ListaItens listaItens = new ListaItens(3);
+
+        System.out.println(listaItens.add(camisa));
+        System.out.println(listaItens.add(calca));
+        System.out.println(listaItens.add(tenis));
+        System.out.println(listaItens.add(meia));
+
+        listaItens.listaAll();
     }
 }

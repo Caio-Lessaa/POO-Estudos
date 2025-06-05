@@ -36,7 +36,9 @@ public class Aluno {
         this.mediaFinal = mediaFinal;
     }
 
-    
+    public int getQtdFaltas() {
+        return qtdFaltas;
+    }
 
     public void setQtdFaltas(int qtdFaltas) {
         this.qtdFaltas = qtdFaltas;

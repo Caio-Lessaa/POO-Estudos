@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f8a36c1-50b6-41fc-a39b-d5b52ffbad95" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Loja/src/ItemEstoqueInt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loja/src/ItensLoja.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loja/src/ListaItens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loja/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Loja/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema de Cadastro de Alunos/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema de Cadastro de Alunos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema de Cadastro de Alunos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema de Cadastro de Alunos/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema de Cadastro de Alunos/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema de Cadastro de Alunos/Sistema de Cadastro de Alunos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema de Cadastro de Alunos/src/Aluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema de Cadastro de Alunos/src/ListaAlunos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema de Cadastro de Alunos/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CursoInf/out/production/CursoInf/cursoinf/CursoInf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CursoInf/out/production/CursoInf/cursoinf/CursoInf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CursoInf/src/cursoinf/CursoInf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CursoInf/src/cursoinf/CursoInf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +63,7 @@
       <updated>1748544393102</updated>
       <workItem from="1748544394256" duration="134000" />
       <workItem from="1748728125414" duration="24000" />
+      <workItem from="1750683196489" duration="10000" />
     </task>
     <servers />
   </component>

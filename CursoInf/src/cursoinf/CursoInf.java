@@ -38,5 +38,7 @@ public class CursoInf {
         t1.listarTodos();
         
         t1.listarAprovados();
+
+
     }
 }
